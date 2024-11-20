@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">To_Do_List</string>
+    <string name="login">login\n</string>
+    <string name="email">email\n</string>
+    <string name="mdp">mdp\n</string>
+    <string name="password">password\n</string>
+    <string name="Login">Login\n</string>
+    <string name="Register">Register</string>
+    <string name="click_to_login">click to login</string>
+    <string name="click_to_Register">click to register</string>
+</resources>
